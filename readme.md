@@ -2,6 +2,8 @@
 ## Modi-Gandhi Steg with esolang
 ## Method of Solving
 
+## Kindly only use the final.png and modiji.txt for solving, the others are intermediate files
+
 ### Restoring image
 First, as a classic move, the beginning magic number of png, 89 has been changed to 69 which needs to be changed back. After that we will receive an image of Rahul Gandhi
 
