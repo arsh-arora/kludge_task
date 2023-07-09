@@ -1,0 +1,18 @@
+
+  mitroon
+  uttar 1 hai
+  i 1 hai
+  mann ki baat nambar
+  nambar nambar substract 9992 hai
+    jab tak i nambar se zyada hai {
+      uttar uttar taimes i hai
+      uttar uttar plus i hai
+      uttar uttar plus 13 hai
+      i i plus 1 hai
+    }
+
+    
+  bhaiyo aur behno "password"
+  bhaiyo aur behno uttar
+  bhaiyo aur behno "hai"
+  acche din aa gaye
